@@ -5,7 +5,7 @@
 void FSpeechTask::DoWork()
 {
 	int ret = MSP_SUCCESS;
-	const char* login_params = "appid = 5a43b8d9, work_dir = .";	// 登录参数，appid与msc库绑定，请勿随意改动
+	const char* login_params = "appid = 5a449b52, work_dir = .";	// 登录参数，appid与msc库绑定，请勿随意改动
 
 																	/*
 																	* sub:				请求业务类型
